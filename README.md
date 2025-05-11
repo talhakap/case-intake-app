@@ -24,8 +24,11 @@ A full-stack case submission system built with **React** (frontend), **ASP.NET C
 
 
 /client         → React frontend (Vite)
+---
 /backend        → ASP.NET Core Web API
+---
 /UploadedFiles  → Where uploaded files are saved
+---
 
 
 
