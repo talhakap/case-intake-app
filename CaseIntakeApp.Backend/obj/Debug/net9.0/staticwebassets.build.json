@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZY+LW6z+J45DjQO54bFldQrYWeaY07hA3iPaN27Nll8=",
+  "Source": "CaseIntakeApp.Backend",
+  "BasePath": "_content/CaseIntakeApp.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

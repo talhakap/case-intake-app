@@ -1,0 +1,6 @@
+@CaseIntakeApp.Backend_HostAddress = http://localhost:5268
+
+GET {{CaseIntakeApp.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
