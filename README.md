@@ -2,7 +2,7 @@ Here's a user-friendly `README.md` designed specifically for people who will **c
 
 ---
 
-```markdown
+
 # 📦 Case Intake Web Application
 
 A full-stack case submission system built with **React** (frontend), **ASP.NET Core Web API** (backend), and **SQLite**. Users can submit cases with optional file attachments, and admins can manage, export, or reset all case data.
