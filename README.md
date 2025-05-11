@@ -21,47 +21,47 @@ A full-stack case submission system built with **React** (frontend), **ASP.NET C
 
 ## 🧩 Project Structure
 
-```
+
 
 /client         → React frontend (Vite)
 /backend        → ASP.NET Core Web API
 /UploadedFiles  → Where uploaded files are saved
 
-````
+
 
 ---
 
 ## ⚙️ Backend Setup (API)
 
 1. Open a terminal and navigate to the `backend` folder:
-   ```bash
+   bash
    cd backend
 ````
 
 2. Restore and build:
 
-   ```bash
+   bash
    dotnet restore
    dotnet build
-   ```
+   
 
 3. Run EF migrations to create the SQLite DB:
 
-   ```bash
+   bash
    dotnet ef database update
-   ```
+   
 
 4. Start the backend server:
 
-   ```bash
+   bash
    dotnet run
-   ```
+   
 
 5. The API should be live at:
 
-   ```
+   
    http://localhost:5268
-   ```
+   
 
 ---
 
@@ -69,9 +69,9 @@ A full-stack case submission system built with **React** (frontend), **ASP.NET C
 
 1. Open a second terminal and navigate to the `client` folder:
 
-   ```bash
+   bash
    cd client
-   ```
+   
 
 2. Install dependencies:
 
@@ -81,15 +81,15 @@ A full-stack case submission system built with **React** (frontend), **ASP.NET C
 
 3. Run the frontend:
 
-   ```bash
+   bash
    npm run dev
-   ```
+   
 
 4. Visit the app in your browser:
 
-   ```
+   
    http://localhost:3000
-   ```
+   
 
 ---
 
@@ -124,7 +124,5 @@ A full-stack case submission system built with **React** (frontend), **ASP.NET C
 ## 📄 License
 
 MIT License – feel free to use, modify, and contribute.
-
-```
 
 ---
