@@ -24,12 +24,10 @@ A full-stack case submission system built with **React** (frontend), **ASP.NET C
 
 
 /client         → React frontend (Vite)
----
-/backend        → ASP.NET Core Web API
----
-/UploadedFiles  → Where uploaded files are saved
----
 
+/backend        → ASP.NET Core Web API
+
+/UploadedFiles  → Where uploaded files are saved
 
 
 ---
@@ -39,7 +37,7 @@ A full-stack case submission system built with **React** (frontend), **ASP.NET C
 1. Open a terminal and navigate to the `backend` folder:
    bash
    cd backend
-````
+
 
 2. Restore and build:
 
